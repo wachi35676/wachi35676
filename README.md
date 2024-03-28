@@ -5,7 +5,7 @@
 Currently residing in the vibrant heart of Rawalpindi, Punjab, Pakistan, I'm a Software Engineer by trade at Quest. Picture this: a wizard in the realm of video games, conjuring up ecosystems with a mere flick of a function. That's me, delving into the mysteries of procedural generation of biomes in video games. Hogwarts, who?
 
 ### 📚 Education? Oh, I've had some.
-Navigated the treacherous waters of the National University of Computer and Emerging Sciences, emerging victorious in 2024 with skills sharper than a compiler's error message. And yes, I made it onto the Dean's List so many times they nearly renamed it after me.
+Navigated the treacherous waters of FAST(NUCES) University, emerging victorious in 2024 with skills sharper than a compiler's error message. And yes, I made it onto the Dean's List so many times they nearly renamed it after me.
 
 ### 🎮 Experience? Let's just say I've been around the block.
 - **Software Engineer @ Quest**: I engineer software. It's kind of in the title.
